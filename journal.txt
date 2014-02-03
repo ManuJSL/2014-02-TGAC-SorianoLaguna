@@ -4,5 +4,5 @@ Title: The best paper ever!
 Introduction: Som introduction goes here.
 Data: No data yet. Still have to collect it.
 Analysis:
-Conclusion:
+Conclusion: I think this may get me a Nobel prize.
 
