@@ -1,8 +1,8 @@
-Author: Manuel Soriano-Laguna, A. Gates
+Author: Manuel Soriano-Laguna, A. Gates, John Smith
 Title: The best paper ever ever ever!
 
-Introduction: Som introduction goes here.
-Data: No data yet. Still have to collect it.a
-Analysis:
+Introduction: Some introduction goes here.
+Data: No data yet. Still have to collect it.
+Analysis: (Note:)
 Conclusion: I think this may get me a Nobel prize.
 
