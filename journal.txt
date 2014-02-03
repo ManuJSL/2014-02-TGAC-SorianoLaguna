@@ -1,8 +1,8 @@
-Author:
-Title:
+Author: Manuel Soriano-Laguna
+Title: The best paper ever!
 
-Introduction:
-Data:
+Introduction: Som introduction goes here.
+Data: No data yet. Still have to collect it.
 Analysis:
 Conclusion:
 
